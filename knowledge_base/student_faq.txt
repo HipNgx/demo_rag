@@ -1,0 +1,26 @@
+# DỮ LIỆU MẪU PHỤC VỤ HỌC TẬP — FAQ SINH VIÊN
+
+## Đăng ký học phần
+Đợt đăng ký học phần chính cho học kỳ 2 năm 2025 diễn ra từ 08:00 ngày 05/01 đến 23:59 ngày 12/01. Sinh viên đăng nhập cổng học vụ để đăng ký hoặc hủy học phần. Sau thời gian này, yêu cầu điều chỉnh phải gửi về phòng Đào tạo trước ngày 17/01 và chỉ được xem xét nếu còn chỗ.
+
+Mỗi sinh viên cần đăng ký tối thiểu 14 tín chỉ và tối đa 24 tín chỉ trong một học kỳ chính. Sinh viên có điểm trung bình tích lũy dưới 2.0 được đăng ký tối đa 18 tín chỉ trong học kỳ kế tiếp.
+
+## Điểm danh và điều kiện thi
+Sinh viên phải tham dự ít nhất 80% số tiết của mỗi học phần. Nếu tỷ lệ tham dự thấp hơn 80%, sinh viên không đủ điều kiện dự thi kết thúc học phần, trừ khi có quyết định đặc biệt từ khoa.
+
+Vắng mặt vì lý do sức khỏe cần có giấy xác nhận hợp lệ và nộp cho giảng viên trong vòng 07 ngày kể từ ngày quay lại lớp. Việc có được tính là vắng có phép hay không do giảng viên và khoa xem xét.
+
+## Học bổng khuyến khích học tập
+Học bổng xét theo từng học kỳ chính. Điều kiện tối thiểu gồm: điểm trung bình học kỳ từ 3.20/4.00, không có học phần dưới điểm C, đăng ký tối thiểu 14 tín chỉ và không bị kỷ luật từ mức khiển trách trở lên.
+
+Danh sách dự kiến được công bố trong vòng 30 ngày sau khi có đầy đủ điểm. Sinh viên có 07 ngày kể từ ngày công bố để gửi phản hồi về kết quả xét học bổng qua email của phòng Công tác Sinh viên.
+
+## Mượn thiết bị phòng lab
+Sinh viên được mượn chuột, bàn phím, webcam hoặc bộ dây nguồn tại quầy phòng lab khi có thẻ sinh viên hợp lệ. Thời hạn mượn trong ngày phải trả trước 20:00. Thiết bị mượn qua đêm chỉ dành cho các đồ án đã được giảng viên phụ trách xác nhận.
+
+Khi làm mất hoặc làm hỏng thiết bị, sinh viên báo ngay cho quản lý lab. Mức bồi hoàn được xác định theo tình trạng thiết bị và biên bản kiểm tra; chatbot không có thẩm quyền tự tính mức phí.
+
+## Hỗ trợ đồ án môn học
+Mỗi nhóm đồ án có từ 3 đến 5 thành viên. Nhóm cần nộp đề cương một trang, nêu rõ vấn đề, dữ liệu dự kiến, hướng giải quyết và cách phân chia công việc. Đề cương nộp trước tuần học thứ 5 trên hệ thống LMS.
+
+Khi dùng dữ liệu có thông tin cá nhân, nhóm phải ẩn danh dữ liệu trước khi phân tích. Không được đưa API key, mật khẩu hoặc dữ liệu cá nhân thật vào mã nguồn công khai.
